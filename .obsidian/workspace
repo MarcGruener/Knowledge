@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "22f5ee1edb25b006",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fefebeab9dce15a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Protein.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fba99c15d429f583",
+    "type": "split",
+    "children": [
+      {
+        "id": "510267f82e9fde56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4cc47c713376b26",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "cff5dc14dbc4e7a0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ec9a08f1fa0a8dc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5225386eb11df9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5630eb4e8902718",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "enzyme",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 429
+  },
+  "right": {
+    "id": "ccd37fdda4394120",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff37c945c0f0e783",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6f58eed1c6618fa",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Protein.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6915723531803204,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "128455fa7bd2dddb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "38cd229f380c4923",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b24d08be95f8bfcb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Protein.md"
+              }
+            }
+          },
+          {
+            "id": "bb4c5229c3f98754",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Protein.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "90726f3c56f09e8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Protein.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9fefebeab9dce15a",
+  "lastOpenFiles": [
+    "Protein.md",
+    "Protein Metabolism.md",
+    "Hormones.md",
+    "Metabolism.md",
+    "Hormones.md",
+    "Hyperglycemia.md",
+    "Enzyme.md",
+    "Glucokinase.md",
+    "Catalytic Enzymes.md",
+    "Anabolic Enzymes.md"
+  ]
+}

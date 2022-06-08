@@ -1,0 +1,11 @@
+---
+title: Pancreas
+authors: 
+year: 2022
+doi: 
+ult: https://en.wikipedia.org/w/index.php?title=Pancreas&oldid=1088127206
+---
+## Abstract
+The [[pancreas]] is an organ of the digestive system and endocrine system of vertebrates. In humans, it is located in the abdomen behind the stomach and functions as a gland. The [[pancreas]] is a mixed or heterocrine gland, i.e. it has both an endocrine and a digestive exocrine function. 99% of the [[pancreas]] is exocrine and 1% is endocrine. As an endocrine gland, it functions mostly to regulate blood sugar levels, secreting the [[Hormones]] [[insulin]], [[glucagon]], somatostatin, and pancreatic polypeptide. As a part of the digestive system, it functions as an exocrine gland secreting pancreatic juice into the duodenum through the pancreatic duct. This juice contains bicarbonate, which neutralizes acid entering the duodenum from the stomach; and digestive enzymes, which break down carbohydrates, proteins, and fats in food entering the duodenum from the stomach.
+Inflammation of the [[pancreas]] is known as pancreatitis, with common causes including chronic alcohol use and gallstones. Because of its role in the regulation of blood sugar, the [[pancreas]] is also a key organ in diabetes mellitus. Pancreatic cancer can arise following chronic pancreatitis or due to other reasons, and carries a very poor prognosis, as it is often identified when it has spread to other areas of the body.
+The word [[pancreas]] comes from the Greek πᾶν (pân, “all”) & κρέας (kréas, “flesh”). The function of the [[pancreas]] in diabetes has been known since at least 1889, with its role in [[insulin]] production identified in 1921.
