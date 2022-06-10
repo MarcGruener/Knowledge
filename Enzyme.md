@@ -5,7 +5,7 @@ type: definition
 
 ---
 
-# Enzymes
+# Enzyme
 
 ## TL;DR:
 Catalysis in biochemical reactions and are usually complex or conjugated proteins.

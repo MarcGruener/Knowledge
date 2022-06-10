@@ -4,12 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "9fefebeab9dce15a",
+        "id": "8446d9904157da58",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "200 -- AREAS Type 1 Diabetes Mellitus.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0e5fb6c94d7b7350",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Protein.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "870266b60f27727e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Structural Enzymes.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -63,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enzyme",
+                "query": "structural",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429
+    "width": 222
   },
   "right": {
     "id": "ccd37fdda4394120",
@@ -92,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Protein.md",
+                "file": "Structural Enzymes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,7 +141,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6915723531803204,
+                  "scale": 0.10279328178790578,
                   "close": false
                 }
               }
@@ -144,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protein.md"
+                "file": "Structural Enzymes.md"
               }
             }
           },
@@ -154,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protein.md",
+                "file": "Structural Enzymes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protein.md",
+                "file": "Structural Enzymes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,19 +208,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 258
   },
-  "active": "9fefebeab9dce15a",
+  "active": "870266b60f27727e",
   "lastOpenFiles": [
+    "Structural Enzymes.md",
     "Protein.md",
-    "Protein Metabolism.md",
-    "Hormones.md",
+    "Transport Proteins.md",
+    "Carrier Proteins.md",
+    "Channel Proteins.md",
+    "200 -- AREAS Type 1 Diabetes Mellitus.md",
     "Metabolism.md",
-    "Hormones.md",
-    "Hyperglycemia.md",
-    "Enzyme.md",
-    "Glucokinase.md",
-    "Catalytic Enzymes.md",
-    "Anabolic Enzymes.md"
+    "Digestive Enzymes.md",
+    "Digestive System.md",
+    "Hormones.md"
   ]
 }

@@ -17,3 +17,4 @@ Proteins can be structural, regulatory, contractile, or protective and serve in 
 
 ## References
 [^1]: [[@clarkBiology2020]]
+[^2]: [[@meisenbergPrinciplesMedicalBiochemistry]] p.16
