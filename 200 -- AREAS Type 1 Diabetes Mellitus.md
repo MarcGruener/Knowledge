@@ -22,3 +22,4 @@ created: [" 04-06-2022 13:18"]
 - [ ]  [[@clarkBiology2020]] p.1070 Pancreas
 - [ ] [[@meisenbergPrinciplesMedicalBiochemistry]] p. 344 The Pancreas is a factory for digestive enzymes
 - [ ] [[@meisenbergPrinciplesMedicalBiochemistry]] p. 354 Homeostasis
+- [ ] [[@meisenbergPrinciplesMedicalBiochemistry]] p.535

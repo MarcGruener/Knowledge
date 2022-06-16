@@ -15,6 +15,10 @@ Hormones are usually small proteins or steroids, secreted into the blood stream 
 
 Hormones bind to specific cell-surface intercellular hormone receptors. This way, they only have an impact on the cells that have these receptors whereby the cell's sensitivity to a hormone is determined by the number of receptors.[^2]
 
+## Examples:
+- [[Insulin]]
+- Thyroxine
+
 ## References
 
 [^1]: [[@clarkBiology2020]]

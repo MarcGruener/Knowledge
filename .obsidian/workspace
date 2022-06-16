@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8446d9904157da58",
+        "id": "634c7731b7201513",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -17,12 +17,12 @@
         }
       },
       {
-        "id": "0e5fb6c94d7b7350",
+        "id": "6eb180b0a4254459",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Protein.md",
+            "file": "Metabolism.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -30,12 +30,12 @@
         }
       },
       {
-        "id": "870266b60f27727e",
+        "id": "376cd92423c20069",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Structural Enzymes.md",
+            "file": "Lipid Metabolism.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "structural",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222
+    "width": 209
   },
   "right": {
     "id": "ccd37fdda4394120",
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Structural Enzymes.md",
+                "file": "Lipid Metabolism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structural Enzymes.md"
+                "file": "Lipid Metabolism.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structural Enzymes.md",
+                "file": "Lipid Metabolism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structural Enzymes.md",
+                "file": "Lipid Metabolism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,17 +210,17 @@
     "direction": "horizontal",
     "width": 258
   },
-  "active": "870266b60f27727e",
+  "active": "376cd92423c20069",
   "lastOpenFiles": [
-    "Structural Enzymes.md",
-    "Protein.md",
-    "Transport Proteins.md",
-    "Carrier Proteins.md",
-    "Channel Proteins.md",
-    "200 -- AREAS Type 1 Diabetes Mellitus.md",
+    "Lipid Metabolism.md",
     "Metabolism.md",
-    "Digestive Enzymes.md",
-    "Digestive System.md",
-    "Hormones.md"
+    "200 -- AREAS Type 1 Diabetes Mellitus.md",
+    "Protein Metabolism.md",
+    "Glucogenic.md",
+    "Ketogenic.md",
+    "Nitrogen Balance.md",
+    "Amino Acids.md",
+    "Protein Synthesis.md",
+    "Gene.md"
   ]
 }
