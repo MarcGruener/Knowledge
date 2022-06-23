@@ -1,8 +1,7 @@
-
+---
 connection:
 aliases: 
 type: definition
-
 ---
 
 # Protein Synthesis
@@ -11,7 +10,7 @@ type: definition
 Protein Synthesis describes the process of building amino acid chains.[^1] It occurs inside of cells and includes many parts including ribosomes, mRNA templates, tRNAs, and other enzymic factors.[^2] [^4] [^5]
 
 ## Definition:
-The protein synthesis is directed by a [[Gene]] of the [[DNA]] and takes place in two steps:
+The protein synthesis is directed by a [[Gene]] of the [[2-Deoxyribonucleic Acid|DNA]] and takes place in two steps:
 - [[Transcription]]
 - [[Translation]]
 

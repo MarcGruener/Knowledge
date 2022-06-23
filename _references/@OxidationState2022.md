@@ -1,0 +1,13 @@
+---
+title: Oxidation state
+authors: 
+year: 2022
+doi: 
+ult: https://en.wikipedia.org/w/index.php?title=Oxidation_state&oldid=1093769690
+---
+## Abstract
+In chemistry, the oxidation state, or oxidation number, is the hypothetical charge of an atom if all of its bonds to different atoms were fully ionic. It describes the degree of oxidation (loss of electrons) of an atom in a chemical compound. Conceptually, the oxidation state may be positive, negative or zero. While fully ionic bonds are not found in nature, many bonds exhibit strong ionicity, making oxidation state a useful predictor of charge.
+The oxidation state of an atom does not represent the "real" formal charge on that atom, or any other actual atomic property. This is particularly true of high oxidation states, where the ionization energy required to produce a multiply positive ion is far greater than the energies available in chemical reactions. Additionally, the oxidation states of atoms in a given compound may vary depending on the choice of electronegativity scale used in their calculation. Thus, the oxidation state of an atom in a compound is purely a formalism. It is nevertheless important in understanding the nomenclature conventions of inorganic compounds. Also, several observations regarding chemical reactions may be explained at a basic level in terms of oxidation states.
+Oxidation states are typically represented by integers which may be positive, zero, or negative. In some cases, the average oxidation state of an element is a fraction, such as 8/3 for iron in magnetite Fe3O4 (see below). The highest known oxidation state is reported to be +9 in the tetroxoiridium(IX) cation (IrO+4). It is predicted that even a +12 oxidation state may be achievable by uranium in the unusual hexoxide UO6. The lowest oxidation state is −5, as for boron in Al3BC.In inorganic nomenclature, the oxidation state is represented by a Roman numeral placed after the element name inside the parenthesis or as a superscript after the element symbol, e.g. Iron(III) oxide.
+The term oxidation was first used by Antoine Lavoisier to signify the reaction of a substance with oxygen. Much later, it was realized that the substance, upon being oxidized, loses electrons, and the meaning was extended to include other reactions in which electrons are lost, regardless of whether oxygen was involved.
+The increase in the oxidation state of an atom, through a chemical reaction, is known as oxidation; a decrease in oxidation state is known as a reduction. Such reactions involve the formal transfer of electrons: a net gain in electrons being a reduction, and a net loss of electrons being oxidation. For pure elements, the oxidation state is zero.

@@ -1,14 +1,13 @@
-
+---
 connection:
 aliases: 
 type: definition
-
 ---
 
 # Isomerization
 
 ## TL;DR:
-Process of turning a molecule, ion, or molecular fragment into an [[Isomer]] of a different chemical structure.[^2]
+Process of turning a molecule, [[ion]], or molecular fragment into an [[Isomer]] of a different chemical structure.[^2]
 
 ## Definition:
 

@@ -1,7 +1,6 @@
-
+---
 connection:
 type: person
-
 ---
 
 # {{title}}

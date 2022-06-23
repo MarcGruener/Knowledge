@@ -1,8 +1,7 @@
-*
+---
 connection:
 aliases: beta-cells
 type: definition
-
 ---
 
 # β-Cells

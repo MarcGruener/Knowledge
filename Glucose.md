@@ -1,21 +1,20 @@
-
+---
 connection:
 aliases: blood sugar
 type: definition
-
 ---
 
 # Glucose
 
 ## TL;DR:
-The most common carbohydrate.
+The most common [[carbohydrate]].
 
 ## Definition:
-Glucose is derived from dietary carbohydrates directly and indirectly by synthesis from other monosaccharides in the liver and other tissues.
+Glucose is derived from dietary [[Carbohydrate|carbohydrates]] directly and indirectly by synthesis from other [[Monosaccharide|monosaccharides]] in the liver and other tissues.
 
 ![[Pasted image 20220606204212.png]][^1]
 
-Glucose is the transported form of carbohydrate in the human body while [[Glycogen]] is the stored form.
+Glucose is the transported form of [[carbohydrate]] in the human body while [[Glycogen]] is the stored form.
 ![[Pasted image 20220606202420.png]]
 
 It is the source of energy for the [[Metabolism]].

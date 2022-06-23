@@ -1,0 +1,12 @@
+---
+title: Ketone bodies
+authors: 
+year: 2022
+doi: 
+ult: https://en.wikipedia.org/w/index.php?title=Ketone_bodies&oldid=1088359278
+---
+## Abstract
+Ketone bodies are water-soluble molecules that contain the ketone groups produced from fatty acids by the liver (ketogenesis). Ketone bodies are readily transported into tissues outside the liver, where they are converted into acetyl-CoA (acetyl-Coenzyme A)—which then enters the citric acid cycle (Krebs cycle) and is oxidized for energy.  These liver-derived ketone groups include acetoacetic acid (acetoacetate), beta-hydroxybutyrate, and acetone, a spontaneous breakdown product of acetoacetate (see graphic).
+Ketone bodies are produced by the liver during periods of caloric restriction of various scenarios: low food intake (fasting), carbohydrate restrictive diets, starvation, prolonged intense exercise, alcoholism, or during untreated (or inadequately treated) type 1 diabetes mellitus. Ketone bodies are produced in liver cells by the breakdown of fatty acids. They are released into the blood after glycogen stores in the liver have been depleted. (Glycogen stores typically are depleted within the first 24 hours of fasting.)Ketone bodies are also produced in glial cells under periods of food restriction to sustain memory formation When two acetyl-CoA molecules lose their -CoAs (or coenzyme A groups), they can form a (covalent) dimer called acetoacetate. β-hydroxybutyrate is a reduced form of acetoacetate, in which the ketone group is converted into an alcohol (or hydroxyl) group (see illustration on the right). Both are 4-carbon molecules that can readily be converted back into acetyl-CoA by most tissues of the body, with the notable exception of the liver. Acetone is the decarboxylated form of acetoacetate which cannot be converted back into acetyl-CoA except via detoxification in the liver where it is converted into lactic acid, which can, in turn, be oxidized into pyruvic acid, and only then into acetyl-CoA.
+Ketone bodies have a characteristic smell, which can easily be detected in the breath of persons in ketosis and ketoacidosis. It is often described as fruity or like nail polish remover (which usually contains acetone or ethyl acetate).
+Apart from the three endogenous ketone bodies, other ketone bodies like β-ketopentanoate and β-hydroxypentanoate may be created as a result of the metabolism of synthetic triglycerides, such as triheptanoin.

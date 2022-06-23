@@ -1,8 +1,7 @@
-
+---
 connection:
-aliases: 
+aliases: ['alkyl', 'alkyl groups']
 type: definition
-
 ---
 
 # Alkyl

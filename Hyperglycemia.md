@@ -1,8 +1,7 @@
-
-conneciton:[[200 -- AREAS Type 1 Diabetes Mellitus]]
+---
+conneciton: [[200 -- AREAS Type 1 Diabetes Mellitus]]
 aliases: 
 type: definition
-
 ---
 
 # Hyperglycemia

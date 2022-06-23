@@ -1,8 +1,9 @@
-
+---
 connection:
-aliases: acetyl-CoA, acetyl CoA
+aliases:
+  - acetyl-CoA
+  - acetyl CoA
 type: definition
-
 ---
 
 # Acetyl-Coenzyme A

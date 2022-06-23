@@ -1,6 +1,6 @@
 ---
 conneciton:
-aliases: 
+aliases: []
 type: disease
 ---
 

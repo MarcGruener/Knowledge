@@ -1,8 +1,7 @@
-
+---
 connection:
 aliases: 
 type: definition
-
 ---
 
 # Glycogen

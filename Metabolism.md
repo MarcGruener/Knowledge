@@ -1,17 +1,17 @@
-
+---
 connection:
 aliases: 
+alias:
 type: definition
-
 ---
 
 # Metabolism
 
 ## TL;DR:
-Metabolism is the process of digesting food and breaking down its [[macronutrients]] ([[amino acid]]s, [[carbohydrate]]s, or [[lipid]]s) into [[glucose]] and acids which can either be stored by the body in the liver, muscles, or body fat, or be turned into energy.[^3]
+Metabolism is the process of digesting food and breaking down its [[macronutrients]] ([[amino acid]]s, [[carbohydrate]]s, or [[lipid]]s) into [[glucose]] and acids which can either be stored by the body in the liver, muscles, or body [[Triglycerides|fat]], or be turned into energy.[^3]
 
 ## Definition:
-The goal of metabolism is the generation of metabolic energy by degrading all nutrients (carbohydrates, fat, [[protein]], and alcohol) to [[Acetyl-Coenzyme A]]. 
+The goal of metabolism is the generation of metabolic energy by degrading all nutrients ([[Carbohydrate|carbohydrates]], [[Triglycerides|fat]], [[protein]], and alcohol) to [[Acetyl-Coenzyme A]]. 
 
 There are three different kinds of metabolism:
 - [[Protein Metabolism]]

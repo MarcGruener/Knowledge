@@ -1,8 +1,9 @@
-
+---
 connection:
-aliases: antibodies, immunoglobulin
+aliases:
+  - antibodies
+  - immunoglobulin
 type: definition
-
 ---
 
 # Defense Proteins

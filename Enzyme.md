@@ -1,8 +1,7 @@
-
+---
 connection:
-aliases: 
+aliases: ['enzyme', 'enzymes', 'Enzymes']
 type: definition
-
 ---
 
 # Enzyme

@@ -1,17 +1,18 @@
-
+---
 connection:
-aliases: Krebs Cycle, tricarboxylic acid cycle
+aliases:
+  - Krebs Cycle
+  - tricarboxylic acid cycle
 type: definition
-
 ---
 
 # Citric Acid Cycle
 
 ## TL;DR:
-Process that produces most of the ATP in the body through a series of dehydrogenations and decarboxylations of [[Acetyl-Coenzyme A]].
+Process that produces most of the [[Adenosine Triphosphate|ATP]] in the body through a series of dehydrogenations and decarboxylations of [[Acetyl-Coenzyme A]].
 
 ## Definition:
-The citric acid cycle is the final pathway for the [[oxidation]] reactions that produces ATP through a series of dehydrogenations and decarboxylations in the body and is the final step of the [[metabolism]] (all 3 forms).[^1]
+The citric acid cycle is the final pathway for the [[oxidation]] reactions that produces [[Adenosine Triphosphate|ATP]] through a series of dehydrogenations and decarboxylations in the body and is the final step of the [[metabolism]] (all 3 forms).[^1]
 
 ![[Pasted image 20220605173102.png]]
 [^2]

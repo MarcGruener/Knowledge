@@ -1,8 +1,7 @@
-
+---
 connection:
 aliases: 
 type: definition
-
 ---
 
 # Digestive Enzymes
@@ -11,7 +10,7 @@ type: definition
 Proteins that help digesting *"food by catabolizing nutrients into monomeric units."*[^1]
 
 ## Definition:
-Most nutrients consumed are large polymers that have to be broken down through hydrolytic cleavage reactions into monosaccharides, [[amino acids]], and fatty acids before they can be absorbed by the [[digestive system]]. Due to their specialization of function, multiple enzymes are needed to corporate in order to achieve this goal.[^2]
+Most nutrients consumed are large polymers that have to be broken down through hydrolytic cleavage reactions into [[Monosaccharide|monosaccharides]], [[amino acids]], and fatty acids before they can be absorbed by the [[digestive system]]. Due to their specialization of function, multiple enzymes are needed to corporate in order to achieve this goal.[^2]
 
 Digestion happens in various steps and with the help of different enzymes throughout the entire [[Digestive System]].[^3]
 

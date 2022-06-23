@@ -1,17 +1,16 @@
-
+---
 connection:
 aliases: 
 type: definition
-
 ---
 
 # Carbohydrate [[Metabolism]]
 
 ## TL;DR:
-Turning the carbohydrates consumed with food into energy.
+Turning the [[Carbohydrate|carbohydrates]] consumed with food into energy.
 
 ## Definition:
-After food is consumed, monosaccharides are absorbed in the small intestine into the blood stream. The concentration of [[glucose]] in the blood is regulated by [[insulin]], [[glucagon]], and epinephrine. Is the concentration too high, the [[pancreas]] secrets [[insulin]] "which stimulates the transfer of [[glucose]] into the cells, especially in the liver and muscles".[^1]
+After food is consumed, [[Monosaccharide|monosaccharides]] are absorbed in the small intestine into the blood stream. The concentration of [[glucose]] in the blood is regulated by [[insulin]], [[glucagon]], and epinephrine. Is the concentration too high, the [[pancreas]] secrets [[insulin]] "which stimulates the transfer of [[glucose]] into the cells, especially in the liver and muscles".[^1]
 
 The carbohydrate [[metabolism]] has multiple sub-components including:
 - [[Glycogenesis]]

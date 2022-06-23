@@ -14,7 +14,7 @@ These risk factors accelerate the progression of heart disease.[^3]
 
 
 ## Diagnosis:
-- Being overweight & much fat around the waist
+- Being overweight & much [[Triglycerides|fat]] around the waist
 - High Triglyceride Levels & low HDL
 - Hypertension consistently higher than 140/90mmHg
 - Inability to regulate blood [[glucose]] levels[^2]

@@ -1,11 +1,10 @@
-
+---
 connection:
-aliases: Dehydrogenation
+aliases: ['Dehydrogenation']
 type: definition
-
 ---
 
-# Alcohol Dehydration
+# Alcohol [[Dehydration]]
 
 ## TL;DR:
 Reaction of alcohol with an [[acid]] during which the alcohol looses water molecules and forms [[Alkenes]].[^1]

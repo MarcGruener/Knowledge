@@ -1,8 +1,7 @@
-
+---
 connection:
-aliases:
+aliases: []
 type: thought
-
 ---
 # {{title}}
 

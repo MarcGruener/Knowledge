@@ -1,9 +1,8 @@
-
+---
 connection: 
-aliases: 
+aliases: []
 type: paper
 status:  📫 / 📖 / 🔗 / ⚛️ / 🗄
-
 ---
 
 # {{title}}

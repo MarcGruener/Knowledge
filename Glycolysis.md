@@ -1,8 +1,7 @@
-
+---
 connection:
 aliases: 
 type: definition
-
 ---
 
 # Glycolysis
@@ -29,7 +28,7 @@ Under [[aerobic]] conditions, this happens later by the [[Electron Transport Cha
 
 ![[Pasted image 20220606111321.png]]
 
-Under [[anaerobic]] conditions, the [[NADH]] acts as a reducing agent to reduce [[pyruvic acid]] to [[lactic acid]] in step 10 which turns it back into [[NAD+]].
+Under [[anaerobic]] conditions, the [[NADH]] acts as a [[Reduction|reducing]] agent to reduce [[pyruvic acid]] to [[lactic acid]] in step 10 which turns it back into [[NAD+]].
 
 ![[Pasted image 20220606111332.png]][^1]
 

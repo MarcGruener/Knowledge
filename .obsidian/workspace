@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "634c7731b7201513",
+        "id": "0524a5d2be4e772e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "200 -- AREAS Type 1 Diabetes Mellitus.md",
+            "file": "Carbohydrate.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -17,25 +17,12 @@
         }
       },
       {
-        "id": "6eb180b0a4254459",
+        "id": "eec6b9b1ded8cd86",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Metabolism.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "376cd92423c20069",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Lipid Metabolism.md",
+            "file": "Complex Carbohydrate.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,7 +59,7 @@
         ]
       },
       {
-        "id": "ec9a08f1fa0a8dc6",
+        "id": "500ae92105b79b9c",
         "type": "tabs",
         "children": [
           {
@@ -118,11 +105,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lipid Metabolism.md",
+                "file": "Complex Carbohydrate.md",
                 "options": {
                   "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
+                  "search": "-file:@",
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -141,7 +128,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.10279328178790578,
+                  "scale": 0.20166006326416652,
                   "close": false
                 }
               }
@@ -170,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lipid Metabolism.md"
+                "file": "Complex Carbohydrate.md"
               }
             }
           },
@@ -180,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lipid Metabolism.md",
+                "file": "Complex Carbohydrate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,8 +184,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lipid Metabolism.md",
-                "linksCollapsed": false,
+                "file": "Complex Carbohydrate.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -208,19 +195,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 218
   },
-  "active": "376cd92423c20069",
+  "active": "eec6b9b1ded8cd86",
   "lastOpenFiles": [
-    "Lipid Metabolism.md",
-    "Metabolism.md",
-    "200 -- AREAS Type 1 Diabetes Mellitus.md",
-    "Protein Metabolism.md",
-    "Glucogenic.md",
-    "Ketogenic.md",
-    "Nitrogen Balance.md",
-    "Amino Acids.md",
-    "Protein Synthesis.md",
-    "Gene.md"
+    "Complex Carbohydrate.md",
+    "Glycogen.md",
+    "Carbohydrate.md",
+    "Disaccharide.md",
+    "Galactose.md",
+    "Lactose.md",
+    "Fructose.md",
+    "Sucrose.md",
+    "Maltose.md",
+    "Ketose.md"
   ]
 }

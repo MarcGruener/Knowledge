@@ -1,0 +1,10 @@
+---
+title: Organic compound
+authors: 
+year: 2022
+doi: 
+ult: https://en.wikipedia.org/w/index.php?title=Organic_compound&oldid=1091904588
+---
+## Abstract
+In chemistry, organic compounds are generally any chemical compounds that contain carbon-hydrogen or carbon-carbon bonds.  Due to carbon's ability to catenate (form chains with other carbon atoms), millions of organic compounds are known. The study of the properties, reactions, and syntheses of organic compounds comprise the discipline known as organic chemistry.  For historical reasons, a few classes of carbon-containing compounds (e.g., carbonate salts and cyanide salts), along with a few other exceptions (e.g., carbon dioxide), are not classified as organic compounds and are considered inorganic.  Other than those just named, little consensus exists among chemists on precisely which carbon-containing compounds are excluded, making any rigorous definition of an organic compound elusive.Although organic compounds make up only a small percentage of Earth's crust, they are of central importance because all known life is based on organic compounds. Living things incorporate inorganic carbon compounds into organic compounds through a network of processes (the carbon cycle) that begins with the conversion of carbon dioxide and a hydrogen source like water into  simple sugars and other organic molecules by autotrophic organisms using light (photosynthesis) or other sources of energy.  Most synthetically-produced organic compounds are ultimately derived from petrochemicals consisting mainly of hydrocarbons, which are themselves formed from the high pressure and temperature degradation of organic matter underground over geological timescales.  This ultimate derivation notwithstanding, organic compounds are no longer defined as compounds originating in living things, as they were historically.
+In chemical nomenclature, an organyl group, frequently represented by the letter R, refers to any monovalent substituent whose open valence is on a carbon atom.

@@ -1,14 +1,13 @@
-
+---
 connection:
 aliases: 
 type: definition
-
 ---
 
 # Phosphoric [[Acid]]
 
 ## TL;DR:
-[[Brønsted–Lowry acid]] containing a Phosphor atom and three $H^+$ ions.
+[[Brønsted–Lowry acid]] containing a Phosphor atom and three $H^+$ [[Ion|ions]].
 
 ## Definition:
 ![[Pasted image 20220606124222.png]][^1]

@@ -1,8 +1,7 @@
-
+---
 connection:
 aliases: GLUT
 type: definition
-
 ---
 
 # [[Glucose]] Transporter

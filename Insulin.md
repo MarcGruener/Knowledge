@@ -1,8 +1,7 @@
-
+---
 connection:
 aliases: 
 type: definition
-
 ---
 
 # Insulin
@@ -17,7 +16,7 @@ It enhances the rate of [[glucose]] uptake and utilization by target cells which
 
 ![[Pasted image 20220606204059.png]][^3]
 
-It also stimulates the liver to convert [[glucose]] to [[glycogen]] and adipocytes to convert [[Glucose]] into fat.
+It also stimulates the liver to convert [[glucose]] to [[glycogen]] and adipocytes to convert [[Glucose]] into [[Triglycerides|fat]].
 
 Together with [[Glucagon]], Insulin are the two [[Hormones]] primarily responsible for maintaining homeostasis of blood [[glucose]] levels.[^2]
 

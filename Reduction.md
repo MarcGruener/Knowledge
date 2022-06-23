@@ -1,8 +1,7 @@
-
+---
 connection:
-aliases: 
+aliases: ['reduction', 'reducing']
 type: definition
-
 ---
 
 # Reduction

@@ -1,0 +1,9 @@
+---
+title: Prediction of Glucose Concentration in Children with Type 1 Diabetes Using Neural Networks: An Edge Computing Application
+authors: Federico D’Antoni, Lorenzo Petrosino, Fabiola Sgarro, Antonio Pagano, Luca Vollero, Vincenzo Piemonte, Mario Merone
+year: 2022
+doi: 10.3390/bioengineering9050183
+ult: https://www.mdpi.com/2306-5354/9/5/183
+---
+## Abstract
+Background: Type 1 Diabetes Mellitus (T1D) is an autoimmune disease that can cause serious complications that can be avoided by preventing the glycemic levels from exceeding the physiological range. Straightforwardly, many data-driven models were developed to forecast future glycemic levels and to allow patients to avoid adverse events. Most models are tuned on data of adult patients, whereas the prediction of glycemic levels of pediatric patients has been rarely investigated, as they represent the most challenging T1D population. Methods: A Convolutional Neural Network (CNN) and a Long Short-Term Memory (LSTM) Recurrent Neural Network were optimized on glucose, insulin, and meal data of 10 virtual pediatric patients. The trained models were then implemented on two edge-computing boards to evaluate the feasibility of an edge system for glucose forecasting in terms of prediction accuracy and inference time. Results: The LSTM model achieved the best numeric and clinical accuracy when tested in the .tflite format, whereas the CNN achieved the best clinical accuracy in uint8. The inference time for each prediction was far under the limit represented by the sampling period. Conclusion: Both models effectively predict glucose in pediatric patients in terms of numerical and clinical accuracy. The edge implementation did not show a significant performance decrease, and the inference time was largely adequate for a real-time application.

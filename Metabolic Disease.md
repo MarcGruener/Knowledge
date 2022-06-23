@@ -1,8 +1,8 @@
-
+---
 connection:
-aliases: Metabolic Disorders
+aliases:
+  - Metabolic Disorders
 type: disease
-
 ---
 
 # Metabolic Disease

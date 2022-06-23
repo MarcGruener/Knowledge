@@ -1,8 +1,7 @@
-
+---
 connection:
-aliases: 
+aliases: ['{{title}}s']
 type: definition
-
 ---
 
 # {{title}}

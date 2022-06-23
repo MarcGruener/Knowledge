@@ -1,8 +1,6 @@
-
-
+---
 created: ["{{date: DD-MM-YYYY}} {{time}}"]
 type: project
-
 ---
 
 # {{title}}

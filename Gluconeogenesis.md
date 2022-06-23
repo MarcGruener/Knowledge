@@ -1,14 +1,13 @@
-
+---
 connection:
 aliases: 
 type: definition
-
 ---
 
 # Gluconeogenesis
 
 ## TL;DR:
-Turning non-carbohydrate sources into [[Glucose]].
+Turning non-[[carbohydrate]] sources into [[Glucose]].
 
 ## Definition:
 [[Genesis]]

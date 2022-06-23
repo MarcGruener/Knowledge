@@ -1,8 +1,7 @@
-
+---
 connection:
 aliases: 
 type: definition
-
 ---
 
 # Storage Proteins
@@ -11,7 +10,7 @@ type: definition
 Storage Proteins *"provide nourishment in early embryo development and the seedling"*[^1]
 
 ## Definition:
-Storage proteins are biological reserves for metal ions and [[amino acids]] and can be found in seeds, egg whites, and mild.[^2]
+Storage proteins are biological reserves for metal [[Ion|ions]] and [[amino acids]] and can be found in seeds, egg whites, and mild.[^2]
 
 ## Examples:
 - Legume Storage Proteins

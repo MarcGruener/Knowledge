@@ -23,3 +23,7 @@ created: [" 04-06-2022 13:18"]
 - [ ] [[@meisenbergPrinciplesMedicalBiochemistry]] p. 344 The Pancreas is a factory for digestive enzymes
 - [ ] [[@meisenbergPrinciplesMedicalBiochemistry]] p. 354 Homeostasis
 - [ ] [[@meisenbergPrinciplesMedicalBiochemistry]] p.535
+- [ ] #[[@meisenbergPrinciplesMedicalBiochemistry]] p.423 "fatty acids are synthesized from acetyl-coa"
+- [ ] [[@meisenbergPrinciplesMedicalBiochemistry]] p. 424 "fatty acid synthesis is regulated by hormones and metabolism"
+- [ ] [[@meisenbergPrinciplesMedicalBiochemistry]] p.481
+- [ ] [[@meisenbergPrinciplesMedicalBiochemistry]] p.540 + 543

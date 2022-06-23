@@ -1,8 +1,7 @@
-
+---
 connection:
 aliases: 
 type: definition
-
 ---
 
 # Reverse Aldol Condensation aka. Splitting Molecules in Half
